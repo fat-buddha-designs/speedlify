@@ -13,19 +13,9 @@ module.exports = {
 		freshChrome: "run"
 	},
 	urls: [
-		"https://www.11ty.dev/",
-		"https://www.gatsbyjs.com/",
-		"https://gohugo.io/",
-		"https://nextjs.org/",
-		"https://nuxt.com/",
-		"https://gridsome.org/",
-		"https://vuepress.vuejs.org/",
-		"https://docusaurus.io/",
-		"https://astro.build/",
-		"https://jekyllrb.com/",
-		"https://hexo.io/",
-		"https://kit.svelte.dev/",
-		"https://remix.run/",
-		"https://record-collector.net/",
-	]
+		"https://fatbuddhadesigns.co.uk/",
+		"https://east-engineering-solutions.co.uk/",
+		"https://uppergrange.co.uk/",
+		"https://planttheatresandmore.co.uk/",
+		"https://eicac.co.uk/",
 };
